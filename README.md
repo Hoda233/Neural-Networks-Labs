@@ -1,2 +1,2 @@
 # Neural-Networks-labs
-Solutions for Neural Networks (Pattern Recognition) labs.
+Solutions for Neural Networks (Pattern Recognition) course labs.
